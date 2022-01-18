@@ -10,4 +10,4 @@ Hello World
 
 Watch on Pragmatic AI Labs YouTube: https://lnkd.in/eQ68akCw
 
-Watch on O'Reilly Media: https://lnkd.in/eQ2YCjq
+Watch on O'Reilly Media: https://learning.oreilly.com/videos/github-actions-hello/011812022VIDEOPAIML/
